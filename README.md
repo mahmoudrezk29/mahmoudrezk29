@@ -58,12 +58,6 @@ Co-developed a model (F1: 0.88) to predict moon visibility using **Extra Trees +
 
 ---
 
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudrezk22&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Reach Me
 📬 **Email**: mahmoud.rezk22@hotmail.com  
 💼 **LinkedIn**: [linkedin.com/in/mahmoud-rezk22](https://linkedin.com/in/mahmoud-rezk22)
