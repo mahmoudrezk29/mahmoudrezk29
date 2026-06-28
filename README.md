@@ -1,67 +1,65 @@
-# 👋 Hi there! I'm Mahmoud Rezk
+# 👋 Hi, I'm Mahmoud Rezk
 
-🎯 **Senior Machine Learning Engineer**  
-📍 Dubai, UAE | 🌐 [LinkedIn](https://linkedin.com/in/mahmoud-rezk22) | ✉️ mahmoud.rezk22@hotmail.com
+**Senior AI / Machine Learning Engineer based in Dubai, UAE**
+Focused on **GenAI systems, RAG, Text2SQL, MLOps, computer vision, and research-to-production AI platforms**.
 
----
-
-## 🔍 Who I Am
-
-I build scalable, real-world AI solutions — from agentic LLM chatbots to MLOps pipelines and computer vision systems.  
-Currently working at the intersection of **LLMs, MLOps, and Automation**, I specialize in:
-
-- ✅ End-to-end AI/ML deployment (FastAPI, MLflow, Azure ML)
-- 🤖 Agent-based LLM apps using **RAG**, **LangChain**, **LlamaIndex**
-- 🛠️ Workflow automation using **n8n**, with ongoing upskilling of a 13-member team
-- 🛰️ Real-time edge computing, UAV-based CV, and AI in energy infrastructure
-- 📚 Published author | 🧠 Patent holder
+I build AI systems that move beyond notebooks: APIs, evaluation pipelines, deployment workflows, model monitoring, and stakeholder-facing applications.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🔭 Current Focus
 
-**Languages & Frameworks**  
-`Python` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `FastAPI` • `LangChain` • `LlamaIndex`
-
-**Platforms & MLOps**  
-`Azure ML` • `MLflow` • `DVC` • `Docker` • `GitHub Actions` • `Heroku`
-
-**Vector & Graph Stores**  
-`Qdrant` • `Pinecone` • `FAISS` • `Neo4j`
-
-**Automation & APIs**  
-`n8n` • `Zapier` • `Make` • `RESTful APIs` • `OpenAI API` • `HuggingFace Transformers`
+* Enterprise-style **RAG and research intelligence systems**
+* **Text2SQL** and natural language interfaces for structured data
+* **MLOps pipelines** with experiment tracking, testing, and deployment
+* **FastAPI**, Dockerized services, PostgreSQL, MLflow, and CI/CD
+* Computer vision systems for inspection, classification, and applied research
+* Public-safe GenAI portfolio projects using synthetic/open datasets
 
 ---
 
-## 🚀 Projects & Highlights
+## 🧰 Core Stack
 
-### 💬 Agentic LLM Chatbot  
-Built an internal document-based chatbot using **LangChain + local RAG + FAISS**, now actively used to summarize and extract insights from research papers.
+**AI / ML**
+Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LangChain, LlamaIndex
 
-### ⚡ Solar Panel Defect Detection  
-Deployed a **Mask-RCNN model** on UAV infrared data that improved inspection efficiency by **30%** for Dubai’s smart grid infrastructure.
+**GenAI / RAG**
+RAG pipelines, vector search, prompt engineering, evaluation, document QA, Text2SQL
 
-### 🤖 MLOps + CI/CD Deployment  
-Delivered an ML pipeline using **FastAPI + MLflow + DVC**, integrated into CI/CD with GitHub Actions and deployed to cloud via Heroku.
+**MLOps / Deployment**
+FastAPI, Docker, MLflow, DVC, GitHub Actions, PostgreSQL, cloud deployment, API testing
 
-### 📅 Lunar Calendar Prediction Engine  
-Co-developed a model (F1: 0.88) to predict moon visibility using **Extra Trees + clustering**, published in **Q1 Journal of Big Data**.
-
----
-
-## 🧑‍🏫 Leadership & Mentoring
-
-- 👨‍🏫 Leading a 13-person automation team at **Futurists Hub**
-- 💬 Delivered 100+ attendee ML/CV workshops at DEWA
-- 🛠️ Exploring deployment of n8n automation tools in **government entities**
+**Computer Vision**
+CNNs, transfer learning, Mask R-CNN, YOLO-style pipelines, image classification, inspection workflows
 
 ---
 
-## 📫 Reach Me
-📬 **Email**: mahmoud.rezk22@hotmail.com  
-💼 **LinkedIn**: [linkedin.com/in/mahmoud-rezk22](https://linkedin.com/in/mahmoud-rezk22)
+## 🚀 Selected Public Projects
+
+### MLOps FastAPI Model Deployment
+
+End-to-end ML API with model training, FastAPI inference, unit tests, CI/CD, deployment configuration, slice-level evaluation, and model card documentation.
+
+### Object Classification Benchmark Pipeline
+
+Modular computer vision benchmark pipeline supporting custom CNNs and transfer learning models such as ResNet50, MobileNetV2, and EfficientNetB0, with evaluation reports and visualization outputs.
+
+### Public-Safe Research Intelligence Assistant — Coming Soon
+
+A synthetic/public-data implementation of an enterprise-style RAG + Text2SQL assistant for querying research papers and structured metadata.
 
 ---
 
-> *"AI should solve real-world problems, not just academic ones."*
+## 📚 Research & Professional Background
+
+* Published AI/ML research across computer vision, energy systems, robotics, and applied machine learning
+* Patent contributor in AI-assisted engineering design workflows
+* Experience mentoring interns and delivering AI/ML workshops
+* Strong interest in production-grade GenAI, AI platforms, and MLOps systems
+
+---
+
+## 📫 Connect
+
+Dubai, UAE
+LinkedIn: https://linkedin.com/in/mahmoud-rezk22
